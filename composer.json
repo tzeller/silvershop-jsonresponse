@@ -11,9 +11,9 @@
 		}
 	},
 	"require": {
-		"silvershop/core": "^2.0"
+		"silvershop/core": "3@dev"
 	},
 	"require-dev": {
-		"phpunit/PHPUnit": "3.7.*@stable"
+		"phpunit/PHPUnit": "7.1.12"
 	}
 }
