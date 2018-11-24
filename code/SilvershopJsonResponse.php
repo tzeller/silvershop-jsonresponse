@@ -1,4 +1,16 @@
 <?php
+namespace AnthonyThorpe\SilvershopJsonResponse;
+
+use Page;
+use SilverShop\Cart\ShoppingCart;
+use SilverShop\Cart\ShoppingCartController;
+use SilverStripe\ORM\DataExtension;
+use SilverShop\Page\Product;
+use SilverShop\Page\ProductController;
+use SilverShop\Page\ProductCategory;
+use SilverShop\Page\ProductCategoryController;
+use SilverShop\Extension\ProductControllerExtension;
+use SilverShop\Forms\AddProductForm;
 
 /**
  * ShopJsonResponse
