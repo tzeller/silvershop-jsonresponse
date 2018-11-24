@@ -1,5 +1,5 @@
 <?php
-namespace AnthonyThorpe\SilvershopJsonResponse;
+namespace SilvershopJsonResponse;
 
 use Page;
 use SilverShop\Cart\ShoppingCart;
